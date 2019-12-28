@@ -2,7 +2,7 @@
 Carbon Scraper Plugin for Userbot. //text in creative way.
 usage: .carbon //as a reply to any text message
 
-Thanks to @r4v4n4 for vars
+Thanks to Ravana for vars
 
 """
 from selenium.webdriver.support.ui import Select
